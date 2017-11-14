@@ -1,2 +1,2 @@
 # englishStory
-English learning
+learning English
